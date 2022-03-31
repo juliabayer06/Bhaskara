@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    background-color:rgba(223, 24, 90, 0.692);
+    border: 1px solid black;
+    border-radius: 140px;
+    padding: 10px;
+    width: 80%;
+    height: 65vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+}
+
+.botoes{
+    background-color: azure;
+    padding: 15px;
+    border-radius: 20px;
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
